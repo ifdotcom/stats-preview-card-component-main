@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Order summary card solution](https://github.com/ifdotcom/stats-preview-card-component-main)
+- Live Site URL: [Order summary card solution](https://stats-preview-card-component-main-amber.vercel.app/)
 
 ## My process
 
